@@ -1,18 +1,93 @@
-# 💫 About Me:
-🚀Hi, I'm a junior developer who loves turning ordinary code into amazing projects.<br>👨‍🎓I am constantly exploring new technology topics and working with ideas<br>‍🔧I work with С#, C/C++, JavaScript, HTML/CSS and PHP and other network technologies
+# Привіт! 👋 Я розробник, захоплений створенням надійних та ефективних систем.
 
+<br>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/artemarmash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCzkvnzorcoGZv3-ZHjKaiRg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:artemkraft10@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArtemArmash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ArtemArmash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemArmash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Я пройшов шлях від фундаментальних концепцій програмування до реалізації складних проєктів, і моє портфоліо демонструє глибокий інтерес до того, **як технології працюють "під капотом"**. Мене приваблюють виклики, що вимагають системного мислення, уваги до деталей та оптимізації.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArtemArmash&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 Мої основні напрямки та інтереси:
+
+*   🔲 **Глибоке системне програмування на C++:** Створення власних структур даних (від списків до динамічних масивів), реалізація криптографічних алгоритмів (MD5, SHA-256) з нуля та розробка багатопотокових застосунків. Я люблю C++ за його потужність та контроль над ресурсами.
+
+*   🛡️ **Кібербезпека та мережеві інструменти:** Практична розробка на Python з використанням Scapy та Sockets. Я створив набір утиліт для сканування мережі (ARP, TCP SYN), аналізу вебтехнологій та автоматизації завдань з розвідки.
+
+*   🌐 **Full-Stack розробка:** Побудова повноцінних систем, від бекенду до фронтенду. Я маю досвід у створенні серверної логіки на **PHP з MySQL** для автентифікації користувачів, а також у розробці інтерактивних веб-інтерфейсів на чистому **JavaScript**, HTML та CSS, включаючи архітектуру Single-Page Application (SPA).
+
+*   ⚙️ **Аналіз та обробка даних:** Проєктування та реалізація складних систем для аналізу даних, таких як парсинг лог-файлів сервера за допомогою регулярних виразів або масштабна система для аналізу роздрібної торгівлі.
+
+---
+
+### 🛠️ Мій Технологічний Стек
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Мови програмування:</strong><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>Веб-технології та Бази Даних:</strong><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+        <strong>Ключові бібліотеки та інструменти:</strong><br>
+        - STL (C++) <br>
+        - Scapy & Requests (Python) <br>
+        - Multithreading (C++, Python) <br>
+        - Sockets (Python) <br>
+        - Regular Expressions (C++) <br>
+    </td>
+    <td valign="top" width="50%">
+        <strong>Принципи та підходи:</strong><br>
+        - Object-Oriented Programming (OOP) <br>
+        - Data Structures & Algorithms <br>
+        - Memory Management <br>
+        - Modular Design <br>
+        - Automated Testing <br>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Вибрані Проєкти
+
+1.  **Система аналізу роздрібних даних (C++)**
+    *   Мій наймасштабніший проєкт: повноцінна система для обробки та аналізу даних про продажі, постачальників, магазини та персонал.
+    *   Реалізує 15 складних аналітичних запитів (наприклад, рентабельність магазину, продуктивність продавців, активність покупців).
+    *   Має автоматизовану систему тестування, яка зберігає результати кожного запиту в окремий файл.
+    *   **Навички:** *системний дизайн, OOP, STL (map, vector), парсинг файлів, алгоритми, автоматизація тестування.*
+
+2.  **Набір інструментів для кібербезпеки (Python)**
+    *   Колекція скриптів для розвідки мережі та аналізу вебсайтів.
+    *   Включає багатопотоковий TCP SYN сканер портів, ARP-сканер для виявлення хостів у локальній мережі та аналізатор технологій вебсайту.
+    *   Використовує **Scapy** для створення пакетів низького рівня та **Requests/BeautifulSoup** для вебаналізу.
+    *   **Навички:** *мережеве програмування, кібербезпека, багатопоточність, Scapy, Sockets, аналіз HTTP.*
+
+3.  **Реалізація криптографічного алгоритму SHA-256 (C++)**
+    *   Академічний проєкт, що демонструє глибоке розуміння криптографії та низькорівневих операцій.
+    *   Алгоритм реалізовано з нуля, відповідно до стандарту NIST, включаючи паддинг повідомлень, створення розкладу та 64-раундову функцію стиснення.
+    *   **Навички:** *криптографія, побітові операції, алгоритми, управління пам'яттю, C++.*
+
+4.  **Система управління бібліотекою (Vanilla JavaScript SPA)**
+    *   Інтерактивний односторінковий застосунок (SPA) для управління книгами та відвідувачами бібліотеки.
+    *   Реалізовано повний функціонал CRUD (Create, Read, Update, Delete), а також сортування та пошук в реальному часі.
+    *   Побудовано на чистому JavaScript, без використання зовнішніх фреймворків, для демонстрації глибокого розуміння **DOM API**.
+    *   **Навички:** *JavaScript (ES6+), DOM, SPA, обробка подій, UI/UX, HTML, CSS.*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArtemArmash&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+```
